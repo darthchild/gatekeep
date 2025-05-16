@@ -1,0 +1,24 @@
+{
+  "user_id": "std_user_0",
+  "user_type": "STD",
+  "profile": "standard_light",
+  "requests_sent": 8,
+  "requests_succeeded": 8,
+  "requests_failed": 0,
+  "requests_rate_limited": 0,
+  "response_times": [
+    2.4212493896484375,
+    1.7031996250152588,
+    0.33592796325683594,
+    0.004963874816894531,
+    0.0051114559173583984,
+    0.004169940948486328,
+    0.03130078315734863,
+    0.0062618255615234375
+  ],
+  "endpoints": {
+    "resources": 6,
+    "ping": 2
+  },
+  "anomalous": false
+}

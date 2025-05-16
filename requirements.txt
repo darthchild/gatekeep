@@ -1,0 +1,27 @@
+# API Framework
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+
+# Data Processing and ML
+pandas
+numpy
+tensorflow
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+streamlit
+plotly
+
+# Testing
+pytest
+pytest-asyncio
+
+# HTTP Client
+aiohttp
+requests

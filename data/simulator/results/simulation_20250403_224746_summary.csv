@@ -1,0 +1,9 @@
+user_id,user_type,profile,requests_sent,requests_succeeded,requests_failed,requests_rate_limited,success_rate,rate_limited_rate,avg_response_time,anomalous
+std_user_4,STD,standard_heavy,170,36,0,134,0.21176470588235294,0.788235294117647,0.28184916973114016,False
+std_user_1,STD,standard_heavy,162,31,0,131,0.19135802469135801,0.808641975308642,0.24460960759056938,False
+prm_user_0,PRM,premium_heavy,236,236,0,0,1.0,0.0,0.2069548580606105,False
+std_user_3,STD,standard_heavy,115,36,0,79,0.3130434782608696,0.6869565217391305,0.3923389621402906,False
+prm_user_1,PRM,premium_heavy,230,102,0,128,0.4434782608695652,0.5565217391304348,0.3781349037004554,False
+anom_user_0,STD,anomalous_burst,428,428,0,0,1.0,0.0,0.517216334833163,True
+std_user_0,STD,standard_medium,66,66,0,0,1.0,0.0,0.15704306689175693,False
+std_user_2,STD,standard_light,21,21,0,0,1.0,0.0,0.5471173695155552,False
