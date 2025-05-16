@@ -1,4 +1,4 @@
-# Dynamic AI-based API Rate Limiting System
+# gatekeep - AI based Dynamic API Rate Limiting System
 
 A sophisticated rate limiting system for APIs that uses machine learning to dynamically adjust rate limits based on traffic patterns, anomaly detection, and user types.
 
